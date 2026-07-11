@@ -9,15 +9,21 @@ Create a Reel to share short videos with your followers and the Instagram commun
 To create a Reel, follow these steps:
 
 1. In the Instagram app, select the **+ icon** in the upper-left corner.
-   ![alt text](<Image/Instagram Home screen showing the + icon.png>)
+
+![alt text](<Image/Instagram Home screen showing the + icon.png>)
+
 2. Select **Reel** from the bottom menu.
-   ![alt text](<Image/Instagram Create menu showing the Reel option.webp>)
+
+![alt text](<Image/Instagram Create menu showing the Reel option.webp>)
+
 3. On the **New Reel** screen, choose one of the following options:
    - Select **Drafts** to edit a saved Reel.
    - Select **Templates** to use a predefined Reel template.
    - Select a video from **Recents** or an album to upload an existing video.
    - Select the **Camera icon** to record a new video.
-   ![alt text](<Image/Reel image.jpg>)
+  
+![alt text](<Image/Reel image.jpg>)
+
 4. Select **Next** after you select or record a video.
 
 The **Reel editor** opens with the selected video.
