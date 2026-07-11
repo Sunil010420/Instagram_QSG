@@ -2,15 +2,7 @@
 
 This quick-start guide explains how to create, edit, and publish Instagram Reels. It is written in Markdown and published with GitHub Pages.
 
-## Start here
-
-- [Contents](2-Content.md)
-- [Overview](3-Overview.md)
-- [Prerequisites](4-Prerequisites.md)
-- [Posting a Reel](5-posting-a-reel.md)
-- [FAQ](6-FAQ.md)
-- [Troubleshooting](7-Troubleshooting.md)
-- [Best Practices](8-best-practices.md)
+Live guide: [QSG-Instagram_Reels](https://github.com/Sunil010420/Instagram_QSG.git)
 
 ## About this project
 
